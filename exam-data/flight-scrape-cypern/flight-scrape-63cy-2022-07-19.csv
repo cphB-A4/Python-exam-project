@@ -1,0 +1,213 @@
+,Destination,Out Date,Out Duration,Out Stops,Out Time,Company names,Price,Url,timestamp
+0,63cy,2022-07-19,8t. 15min. ,1 stop RIX ,14:55–00:10+1,"airBaltic, Ryanair","
+844 kr. ",https://kayak.dk/s/clickthrough.jsp?ctyp=SponsoredResultAdBooking&ptyp=F&orig=F..RP..M1&plid=9965447&pid=MyTrip_FSR_da_DK&prv=MyTrip_FSR_da_DK&srch=SgAiLevpCV&ploc=da_DK&atype=SponsoredResult&prc=844.00&cpnid=7073550&xpExt=&aidExt=&lid=MyTrip_FSR_da_DK-SgAiLevpCV&qorig=Airport:CPH&octid=&qdest=Airport:LCA&qstart=1658203200000&qend=1658203200000&qtravelers=2&qrooms=0&qow=true&qfcc=e&qdctid=32005&qdac=LCA&qshour=-1&qehour=-1&qns=false&qnearby=0&qnearbyo=false&qnearbyd=false&pj=fEOIOOjpbH4OJ1TGW57whw==&ah=A8p6ujn2c2hZsaeod_GHcJroRyxfnH6PMajm0FPuGGI&resid=3dfd59223288c9a9efc850cb2a7aa813&bookid=E-1ea8b5d1202&seekProv=SEAT24&trueProv=SEAT24&fid=&rank=1&stid=&qadults=2&qchild=0&_sid_=R-421Evi_W1GhnT9PrAWqrc-KVCOFGa2QTcIFuHRBCEWT3dCljR7ufHVi1jbWlzg4&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M1,20220506-2230
+1,63cy,2022-07-19,8t. 15min. ,1 stop RIX ,14:55–00:10+1,"airBaltic, Ryanair","
+819 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.11637.3dfd59223288c9a9efc850cb2a7aa813&h=13ccfc33b4cb&_kw_pbranded=true&sub=E-1622230267f&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M0,20220506-2230
+2,63cy,2022-07-19,6t. 00min. ,1 stop ARN ,19:00–02:00+1,Norwegian,"
+1.587 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.aXx7J4vJD0cDzQq2dWkU9A.22548.26933f9139b4096569ef75cf5cfa0fa5&h=9b4399eb3221&sub=E-180ffab0a64&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M1,20220506-2230
+3,63cy,2022-07-19,6t. 50min. ,1 stop AMM ,15:55–23:45,Royal Jordanian,"
+1.747 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.ZheJHZqHLmzKJvcpKN_waA.24813.bd3b3b8f74e6853ddebb0437292d366a&h=239cc5a87294&sub=E-1806b77a48b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M2,20220506-2230
+4,63cy,2022-07-19,5t. 55min. ,1 stop PRG ,16:00–22:55,"Eurowings, Czech Airlines","
+1.668 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.23692.a0b66f87dcf97cb195ff18949b836f51&h=0fd94a520b0f&sub=E-1db6f97c17c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M3,20220506-2230
+5,63cy,2022-07-19,7t. 40min. ,1 stop HEL ,12:25–21:05,Finnair,"
+1.669 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV._EXVo5H1FyPBDARZyLA7ng.23713.03bf0bbcabf9702c5aa8551cf444cb39&h=c5a93b76fc00&sub=E-197c53de357&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M4,20220506-2230
+6,63cy,2022-07-19,6t. 45min. ,1 stop DUS ,09:30–17:15,Eurowings,"
+1.745 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.24786.a88e394a3f8400983243ab72fecaf37e&h=7eb4c6a63ece&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M5,20220506-2230
+7,63cy,2022-07-19,10t. 55min. ,1 stop OTP ,21:30–09:25+1,"Wizz Air, Blue Air","
+845 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.12006.64979b08c05c4be726f987f2946a3099&h=8cb5be94b161&sub=E-15e20529e1b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M6,20220506-2230
+8,63cy,2022-07-19,11t. 45min. ,1 stop ATH ,12:35–01:20+1,Aegean Airlines,"
+1.273 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.18wgSzIaLAlgpzrTH2pViLaYAeeTFjgE.18087.890c8c88c0786e0d96b53e087ec8c4df&h=d573c15338db&sub=E-1a5dd732813&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M7,20220506-2230
+9,63cy,2022-07-19,9t. 40min. ,"2 stop ARN, WMI ",13:00–23:40,"SAS, Ryanair","
+1.342 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.19060.5911bd1314a59f5a6897a9bb3a6eeaf5&h=8a1c74814b27&_kw_pbranded=true&sub=E-157a97bf000&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M8,20220506-2230
+10,63cy,2022-07-19,8t. 15min. ,1 stop RIX ,14:55–00:10+1,"SAS, Ryanair","
+1.476 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.20971.3ccf82ce01062d7265cc108d1b176b42&h=0daecca695a8&sub=E-16dacc069bf&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M9,20220506-2230
+11,63cy,2022-07-19,9t. 25min. ,1 stop OSL ,09:20–19:45,Norwegian,"
+1.778 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.25262.a2f7537b31e0a3beb5423212a47bce16&h=46fba71cdfe6&sub=E-12cdb5aacda&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M10,20220506-2230
+12,63cy,2022-07-19,6t. 35min. ,1 stop ATH ,12:35–20:10,Aegean Airlines,"
+2.173 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.30874.59e678cec56dc899caf498ac9f1bd012&h=be5a5bb6e107&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M11,20220506-2230
+13,63cy,2022-07-19,13t. 20min. ,"2 stop OSL-TRF, WMI ",09:20–23:40,"Norwegian, Ryanair","
+921 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.13086.65e8c48d83122b115dcd04922980d791&h=3bd0a3be833c&_kw_pbranded=true&sub=E-19c1f7b5e88&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M12,20220506-2230
+14,63cy,2022-07-19,13t. 20min. ,"2 stop WAW, OTP ",07:00–21:20,"LOT, Blue Air","
+1.031 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.14649.73fc0a2c48526993742aceba9ca80735&h=a293f46a9668&sub=E-1db6f97c17c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M13,20220506-2230
+15,63cy,2022-07-19,13t. 20min. ,"2 stop WAW, OTP ",07:00–21:20,"LOT, Blue Air","
+1.046 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.14862.3a58bb55c9752acfb73b35de51f8ab76&h=d3c99be519ca&sub=E-15e20529e1b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M14,20220506-2230
+16,63cy,2022-07-19,13t. 15min. ,"2 stop OSL-TRF, WMI ",09:25–23:40,"Flyr AS, Ryanair","
+1.134 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.16112.01d30e4804ea993120ebce6fae986c75&h=9f367264340b&_kw_pbranded=true&sub=E-157a97bf000&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M15,20220506-2230
+17,63cy,2022-07-19,12t. 25min. ,"3 stop GDN, WAW, ... ",07:55–21:20,Flere flyselskaber,"
+1.153 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.16382.d7106c6ef2de970286246018a31c94e1&h=ef017df6ac5b&sub=E-1cbc5e05294&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M16,20220506-2230
+18,63cy,2022-07-19,11t. 40min. ,"2 stop AAR, RIX ",11:30–00:10+1,"SAS, Ryanair","
+1.202 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.17078.7eafafb1d8264a348b1977649b71091d&h=f87fd6149715&sub=E-1bb60be310f&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M17,20220506-2230
+19,63cy,2022-07-19,12t. 40min. ,"2 stop WAW, OTP ",19:45–09:25+1,"LOT, Blue Air","
+1.226 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.17412.683c0ba8ab951d307499491c9d4dba96&h=cd15b97cba2f&sub=E-15e20529e1b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M18,20220506-2230
+20,63cy,2022-07-19,11t. 25min. ,"2 stop PRG, ATH ",12:55–01:20+1,"Norwegian, Aegean Airlines","
+1.437 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.20417.50821a310528b3503b5ec45b8e8d8d5d&h=a1846f9032d2&sub=E-1c8f00d753e&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M19,20220506-2230
+21,63cy,2022-07-19,11t. 20min. ,1 stop HEL ,08:45–21:05,Finnair,"
+1.669 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV._EXVo5H1FyPBDARZyLA7ng.23713.00407e4e70401df0557d5b5197b7126f&h=0bac87fdacbe&sub=E-197c53de357&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M20,20220506-2230
+22,63cy,2022-07-19,13t. 20min. ,1 stop HEL ,06:45–21:05,Finnair,"
+1.669 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV._EXVo5H1FyPBDARZyLA7ng.23713.de0e2f83ae29ca43b0253d5ba5f47585&h=e88f882ec4a2&sub=E-197c53de357&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M21,20220506-2230
+23,63cy,2022-07-19,9t. 00min. ,1 stop PRG ,12:55–22:55,"Norwegian, Czech Airlines","
+1.927 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.27379.0cc16e7d93583ba00e0f437f7317e812&h=30092a469fd3&sub=E-1c8f00d753e&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M22,20220506-2230
+24,63cy,2022-07-19,9t. 30min. ,1 stop ARN ,15:30–02:00+1,"SAS, Norwegian","
+1.928 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.27393.930cf429e59dfc276d0f6cb6e4a9d8d4&h=73cb9f0dc3ed&sub=E-1119a84c966&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M23,20220506-2230
+25,63cy,2022-07-19,10t. 00min. ,"2 stop ATH, SKG ",12:35–23:35,Aegean Airlines,"
+2.022 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tYUOhBwwtNbTYwQ_VUUUMA.28721.8046971fc238c1ec05ac152bc2fdc7fe&h=ec13b9ba1424&sub=E-1a3a0167fd0&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M24,20220506-2230
+26,63cy,2022-07-19,10t. 00min. ,"2 stop ATH, SKG ",12:35–23:35,Aegean Airlines,"
+2.022 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tYUOhBwwtNbTYwQ_VUUUMA.28721.de8074fe8e0dd845c12df53dd085014a&h=458768c6abb2&sub=E-1a3a0167fd0&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M25,20220506-2230
+27,63cy,2022-07-19,9t. 25min. ,"2 stop FRA, ATH ",14:55–01:20+1,Aegean Airlines,"
+2.130 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.30263.617759197996bad58e4acaeb0c817427&h=6e170ef6d0af&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M26,20220506-2230
+28,63cy,2022-07-19,6t. 05min. ,1 stop VIE ,17:35–00:40+1,Austrian Airlines,"
+2.713 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.7e2QikHpsTMDzQq2dWkU9A.38536.327ba4f227f5a47e08c8b579f5b063a8&h=9f7bad5ad49d&sub=E-1550e24f803&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M27,20220506-2230
+29,63cy,2022-07-19,14t. 45min. ,"2 stop GDN, WAW-WMI ",07:55–23:40,"Ryanair, LOT","
+903 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.12830.3e595ee1d305e4f485dfb7c6f03ee993&h=c46a76e38de2&_kw_pbranded=true&sub=E-157a97bf000&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M28,20220506-2230
+30,63cy,2022-07-19,14t. 45min. ,"3 stop GDN, TRF, ... ",07:55–23:40,"Ryanair, Wizz Air","
+961 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.13654.542050357e9e4b008dfadda32f9aa434&h=df2428944efa&_kw_pbranded=true&sub=E-1bdbdec9063&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M29,20220506-2230
+31,63cy,2022-07-19,14t. 45min. ,"3 stop GDN, TRF, ... ",07:55–23:40,Ryanair,"
+974 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.13832.dc3dfb8671509f31ede29f72e6f191b5&h=2184fd8fb43d&_kw_pbranded=true&sub=E-136b7bbcf3c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M30,20220506-2230
+32,63cy,2022-07-19,14t. 35min. ,"2 stop RIX, SKG ",19:30–11:05+1,"airBaltic, Wizz Air","
+1.081 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.15359.63c5fe91b00e87dd96dae7b463017b9e&h=b84bcd0f0b92&sub=E-15e20529e1b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M31,20220506-2230
+33,63cy,2022-07-19,12t. 30min. ,1 stop BUD ,21:10–10:40+1,Ryanair,"
+1.133 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.16098.a74f9c6af1048971329de535bf24b83e&h=496fd086425e&sub=E-1bb60be310f&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M32,20220506-2230
+34,63cy,2022-07-19,14t. 30min. ,"2 stop BER, RIX ",08:40–00:10+1,"easyJet, Ryanair","
+1.219 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.17320.a490aa4fa24adac4f9c18bad44b1c46d&h=56da8a4ee200&_kw_pbranded=true&sub=E-1efc6acb587&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M33,20220506-2230
+35,63cy,2022-07-19,15t. 20min. ,"2 stop STN, WMI ",07:20–23:40,Ryanair,"
+1.223 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.17377.52da3eaceb295022773824601d3934fd&h=4b9fe394bceb&_kw_pbranded=true&sub=E-1bdbdec9063&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M34,20220506-2230
+36,63cy,2022-07-19,16t. 10min. ,"2 stop STN, BUD ",17:30–10:40+1,Ryanair,"
+1.240 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.17611.2b4c68a065952b43b85d811fb45b9389&h=806724a0a900&sub=E-15fb055c4bb&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M35,20220506-2230
+37,63cy,2022-07-19,12t. 45min. ,1 stop WAW-WMI ,09:55–23:40,"LOT, Ryanair","
+1.538 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.21845.9f1d2e1f79be48793a239337db2a00c5&h=b537d0e697ea&_kw_pbranded=true&sub=E-1622230267f&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M36,20220506-2230
+38,63cy,2022-07-19,15t. 00min. ,1 stop ARN ,10:00–02:00+1,Norwegian,"
+1.587 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.aXx7J4vJD0cDzQq2dWkU9A.22548.dcff820f7f55ef17919f507b40a04d60&h=98b6e7c759ca&sub=E-180ffab0a64&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M37,20220506-2230
+39,63cy,2022-07-19,14t. 45min. ,1 stop WAW ,19:45–11:30+1,"LOT, Wizz Air","
+1.608 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.22847.6f06833ea5b5470070259b376a5cb485&h=b19f1a1eec2f&sub=E-1db6f97c17c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M38,20220506-2230
+40,63cy,2022-07-19,10t. 05min. ,1 stop ARN ,23:00–10:05+1,"SAS, Eurowings","
+1.752 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.24892.4320ed3166fa1a0f5347e98965d229c1&h=f6387ce6e44b&sub=E-1db6f97c17c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M39,20220506-2230
+41,63cy,2022-07-19,12t. 00min. ,1 stop ARN ,13:00–02:00+1,"SAS, Norwegian","
+1.820 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.25851.0f65805235f4e16e691016205cdc5947&h=167c2f576b49&sub=E-1119a84c966&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M40,20220506-2230
+42,63cy,2022-07-19,8t. 55min. ,1 stop VIE ,09:50–19:45,"Austrian Airlines, Wizz Air","
+2.189 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.31101.b118a17428b6488912b99ec6ba08420a&h=b62d29b69f43&sub=E-1e46e6c3b29&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M41,20220506-2230
+43,63cy,2022-07-19,9t. 30min. ,"2 stop OSL, ARN ",15:30–02:00+1,Norwegian,"
+2.228 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.7e2QikHpsTMDzQq2dWkU9A.31645.14a747af6dda14d4695f1998ff9336bb&h=33c211a872e4&sub=E-139561b6961&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M42,20220506-2230
+44,63cy,2022-07-19,10t. 45min. ,"2 stop OSL, ARN ",14:15–02:00+1,Norwegian,"
+2.295 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.gUEDyXbJuqWKtDGeeN0IhQ.32607.45c40cf864b11155add0123863ba3414&h=388b895120b5&sub=E-199b9ada56f&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M43,20220506-2230
+45,63cy,2022-07-19,11t. 45min. ,1 stop LHR-LGW ,07:00–19:45,British Airways,"
+2.550 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.vkb2KA0OrucDzQq2dWkU9A.36230.94a0c07dbb0ac680af2bdff2ef97b153&h=3dae17333bd8&_kw_pbranded=true&sub=E-12be55bd888&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M44,20220506-2230
+46,63cy,2022-07-19,8t. 45min. ,"2 stop FRA, VIE ",14:55–00:40+1,Lufthansa,"
+2.793 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.e60g2LFm7BOKtDGeeN0IhQ.39683.c8610076a0440173e487077e53da3f81&h=d228e123f84b&sub=E-1ecfc407a77&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M45,20220506-2230
+47,63cy,2022-07-19,9t. 15min. ,"2 stop FRA, VIE ",06:20–16:35,Lufthansa,"
+2.793 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.e60g2LFm7BOKtDGeeN0IhQ.39683.35c854f90fbfcd020e1854ea08c497b1&h=5b5404ddf8f3&sub=E-1ecfc407a77&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M46,20220506-2230
+48,63cy,2022-07-19,5t. 45min. ,1 stop VIE ,09:50–16:35,Austrian Airlines,"
+3.040 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.7e2QikHpsTMDzQq2dWkU9A.43190.0aaaa46cd02e16ad42567455631f5188&h=71535c0a49c3&sub=E-1550e24f803&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M47,20220506-2230
+49,63cy,2022-07-19,7t. 45min. ,1 stop LHR ,16:30–01:15+1,British Airways,"
+3.336 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.iQv-fVD2M68vemUm8g9gjQ.47396.28b7eab6b43f66e24d944c31458edd96&h=8fd72d055f59&sub=E-104c662495c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M48,20220506-2230
+50,63cy,2022-07-19,21t. 15min. ,1 stop OTP ,21:30–19:45+1,"Wizz Air, Ryanair","
+820 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.11651.e56f00a2b17f36d61309e5243faafe9b&h=b54e5a91e187&_kw_pbranded=true&sub=E-1622230267f&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M49,20220506-2230
+51,63cy,2022-07-19,20t. 20min. ,"3 stop STN, BGY, ... ",22:25–19:45+1,Ryanair,"
+973 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.13825.3e06b91fe24f1cc57c86c5c122fd6b0d&h=5a68c8b6f28c&_kw_pbranded=true&sub=E-136b7bbcf3c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M50,20220506-2230
+52,63cy,2022-07-19,18t. 05min. ,"3 stop STN, BGY-MXP, ... ",17:30–12:35+1,Ryanair,"
+975 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.13853.98b8734d466fb78f30ff64379b62d067&h=b4543d07deb5&_kw_pbranded=true&sub=E-136b7bbcf3c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M51,20220506-2230
+53,63cy,2022-07-19,18t. 05min. ,"3 stop STN, MXP, ... ",17:30–12:35+1,Ryanair,"
+1.019 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.14478.330f35aef04ec351d6e8e7a4f4dc2358&h=de9bb21b9028&_kw_pbranded=true&sub=E-136b7bbcf3c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M52,20220506-2230
+54,63cy,2022-07-19,21t. 50min. ,"2 stop KUN, BUD ",11:50–10:40+1,Ryanair,"
+1.029 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.14620.d5dc6a79e6ececabab0dc0a78d31a5b2&h=6f639bda2b22&sub=E-15fb055c4bb&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M53,20220506-2230
+55,63cy,2022-07-19,17t. 20min. ,"3 stop GDN, WAW, ... ",07:55–02:15+1,Flere flyselskaber,"
+1.052 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.14947.d72aa6407c1b2b7819a7c665bb342ac9&h=18ac3e0b2a07&sub=E-1cbc5e05294&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M54,20220506-2230
+56,63cy,2022-07-19,19t. 10min. ,"2 stop RIX, SKG ",14:55–11:05+1,"airBaltic, Wizz Air","
+1.081 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.15359.70c17686934e5daac07b5b3b25d3fcd4&h=467df2e27c2c&sub=E-15e20529e1b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M55,20220506-2230
+57,63cy,2022-07-19,18t. 20min. ,"2 stop RIX, SKG ",19:30–14:50+1,"airBaltic, Ryanair","
+1.146 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.16275.82a679ed72b0a28448050262862934e9&h=67368851fbcc&sub=E-16dacc069bf&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M56,20220506-2230
+58,63cy,2022-07-19,17t. 25min. ,"2 stop FCO, BRI ",18:10–12:35+1,"Norwegian, Ryanair","
+1.203 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.17085.0b0e2928b8192ad09d9fa255628886d2&h=5c2481a64a27&sub=E-14ee2975613&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M57,20220506-2230
+59,63cy,2022-07-19,21t. 40min. ,1 stop PRG ,16:00–14:40+1,"Eurowings, Wizz Air","
+1.214 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.17242.4a55fcc685812ba08bdbdf1b1a5cb804&h=287bc8dc7470&sub=E-1db6f97c17c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M58,20220506-2230
+60,63cy,2022-07-19,17t. 50min. ,"2 stop BER, BUD ",20:40–15:30+1,"easyJet, Wizz Air","
+1.228 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.17448.517098dfb202e578f06376bab6dfa6dd&h=0cb96e9ae0a5&sub=E-1b147359243&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M59,20220506-2230
+61,63cy,2022-07-19,17t. 20min. ,"3 stop GDN, WAW, ... ",07:55–02:15+1,Flere flyselskaber,"
+1.263 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.17938.b336899dcf3e7a4bb878f4d7ba8d4d3c&h=fe2370ede19b&sub=E-1cbc5e05294&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M60,20220506-2230
+62,63cy,2022-07-19,17t. 20min. ,1 stop BUD ,21:10–15:30+1,"Ryanair, Wizz Air","
+1.331 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.18911.31a3961e94be48d52e94dd0ad5f0f910&h=49892103c09a&sub=E-16dacc069bf&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M61,20220506-2230
+63,63cy,2022-07-19,15t. 15min. ,"2 stop STN-LHR, PRG ",22:25–14:40+1,Flere flyselskaber,"
+1.591 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.22605.3c71c402bdc1374d24fef2a83f61e16a&h=2468ad62d25f&_kw_pbranded=true&sub=E-181f1e7ce60&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M62,20220506-2230
+64,63cy,2022-07-19,19t. 40min. ,1 stop PRG ,16:00–12:40+1,Eurowings,"
+1.599 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.22719.6e5362f72b8b64318c2073dc82de638b&h=8856eb9eed14&sub=E-1db6f97c17c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M63,20220506-2230
+65,63cy,2022-07-19,15t. 30min. ,1 stop PRG ,16:00–08:30+1,"Eurowings, Czech Airlines","
+1.608 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.22839.784902f79d9eb3f8dc2c26aa586f126f&h=f9bddc5c8585&sub=E-1db6f97c17c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M64,20220506-2230
+66,63cy,2022-07-19,20t. 00min. ,1 stop ATH ,12:35–09:35+1,Aegean Airlines,"
+1.641 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.0Cx9insxRz2lB60_7nlgXQ.23308.bf8be06b5682a662eb3f1fdc40ce9fd9&h=9841e2a861cd&sub=E-177ddff7a85&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M65,20220506-2230
+67,63cy,2022-07-19,15t. 40min. ,"2 stop OSL, ARN ",09:20–02:00+1,Norwegian,"
+1.732 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.24608.eb1f1bbeec58e61a9297610858e9c29c&h=81cf28aa5bde&sub=E-110f16d8f50&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M66,20220506-2230
+68,63cy,2022-07-19,19t. 50min. ,1 stop AMM ,15:55–12:45+1,Royal Jordanian,"
+1.828 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.0Cx9insxRz2lB60_7nlgXQ.25972.cecfffa496fd77a8dcbcb77d40b0a8ce&h=c275fb12a5f0&sub=E-177ddff7a85&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M67,20220506-2230
+69,63cy,2022-07-19,13t. 15min. ,1 stop ARN ,11:45–02:00+1,"SAS, Norwegian","
+1.928 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.27393.efddb9667721ecd41e1e14f208c134c4&h=44f3d366cd5a&sub=E-1119a84c966&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M68,20220506-2230
+70,63cy,2022-07-19,18t. 00min. ,"2 stop FRA, ATH ",06:20–01:20+1,Aegean Airlines,"
+2.130 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.30263.30089ba840193c665c63deec84917389&h=3ceee39d0900&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M69,20220506-2230
+71,63cy,2022-07-19,15t. 35min. ,"2 stop MUC, ATH ",08:45–01:20+1,Aegean Airlines,"
+2.310 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.32813.61acddd3777015a06d7b29d8c58fcec5&h=3f3493eeb57f&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M70,20220506-2230
+72,63cy,2022-07-19,17t. 40min. ,"2 stop FRA, ATH ",14:55–09:35+1,Aegean Airlines,"
+2.367 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.33623.317c48e7aef1090f7694f62d069a54a4&h=19dd381bb814&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M71,20220506-2230
+73,63cy,2022-07-19,13t. 50min. ,1 stop ZRH ,20:00–10:50+1,SWISS,"
+2.408 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.34206.2342a2398e2aba1c43457cec5376327f&h=861ddc941f36&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M72,20220506-2230
+74,63cy,2022-07-19,12t. 50min. ,"2 stop FRA, ATH ",06:20–20:10,Aegean Airlines,"
+2.570 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.7e2QikHpsTMDzQq2dWkU9A.36501.98e81d5909d71e19bc8be3138e45027a&h=083d92251cf9&sub=E-1c3f425b86b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M73,20220506-2230
+75,63cy,2022-07-19,12t. 50min. ,"2 stop FRA, ATH ",06:20–20:10,Aegean Airlines,"
+2.570 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.7e2QikHpsTMDzQq2dWkU9A.36501.978d446111e022adc7f0dd19d4b79a1f&h=9bf3c77eaa1d&sub=E-1c3f425b86b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M74,20220506-2230
+76,63cy,2022-07-19,15t. 10min. ,"2 stop SKG, ATH ",17:25–09:35+1,Aegean Airlines,"
+2.742 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.38958.f3b9be30267f27c0bf45120b1a2269f2&h=e16b2d3c1d4d&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M75,20220506-2230
+77,63cy,2022-07-19,11t. 45min. ,"2 stop FRA, VIE ",11:55–00:40+1,Lufthansa,"
+2.793 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.e60g2LFm7BOKtDGeeN0IhQ.39683.d71831e8d0a23bd26aa1ad982d914928&h=a81d3394748b&sub=E-1ecfc407a77&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M76,20220506-2230
+78,63cy,2022-07-19,9t. 20min. ,1 stop LGW ,12:00–22:20,easyJet,"
+2.882 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.40947.6a48ed99071e1fb648e99e93113a339b&h=7d788f48a035&_kw_pbranded=true&sub=E-1523c3b93ad&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M77,20220506-2230
+79,63cy,2022-07-19,15t. 50min. ,1 stop ZRH ,18:00–10:50+1,SWISS,"
+2.896 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.41146.e3d43b878dde25073609bec78803052f&h=37381770db3f&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M78,20220506-2230
+80,63cy,2022-07-19,13t. 50min. ,1 stop VIE ,09:50–00:40+1,Austrian Airlines,"
+2.972 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.7e2QikHpsTMDzQq2dWkU9A.42213.bf65b05925c9adc221b9af9eabdc06f6&h=c92c21338ffc&sub=E-1550e24f803&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M79,20220506-2230
+81,63cy,2022-07-19,8t. 40min. ,1 stop LGW ,12:00–21:40,easyJet,"
+3.166 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.FTZUJ6SC9iEmFcdAejOqIg.44982.8ed33f58935cac25a31c2cd370548b51&h=df5250c9f9f6&_kw_pbranded=true&sub=E-1523c3b93ad&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M80,20220506-2230
+82,63cy,2022-07-19,8t. 30min. ,1 stop VIE ,07:05–16:35,Austrian Airlines,"
+3.170 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.7e2QikHpsTMDzQq2dWkU9A.45030.db7cc78493ccb7bd836c4c045c4e9a0d&h=43f4ac520521&sub=E-1550e24f803&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M81,20220506-2230
+83,63cy,2022-07-19,10t. 55min. ,"2 stop MUC, VIE ",12:45–00:40+1,Lufthansa,"
+3.289 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.e60g2LFm7BOKtDGeeN0IhQ.46730.93e8f489739cc1fea5c61eb092365132&h=d628ee9614c0&sub=E-1ecfc407a77&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M82,20220506-2230
+84,63cy,2022-07-19,9t. 10min. ,1 stop LGW ,12:00–22:10,easyJet,"
+3.345 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.47518.6d05ea7be8f85a285c5421501ae305f6&h=c37d214c9829&sub=E-1c036b86db8&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M83,20220506-2230
+85,63cy,2022-07-19,7t. 40min. ,1 stop MUC ,06:10–14:50,Lufthansa,"
+3.883 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.55169.1703c584c800d8e4d2e0958559755562&h=1b28df3b27b0&sub=E-16f703ed404&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M84,20220506-2230
+86,63cy,2022-07-19,8t. 35min. ,1 stop FRA ,06:20–15:55,Lufthansa,"
+3.900 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.47F3EeHCWiIEdn9PX-8xhQ.55404.087c3f996ee30f2bbcaff0372b491db0&h=e0993a0e5f70&sub=E-16f703ed404&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M85,20220506-2230
+87,63cy,2022-07-19,8t. 50min. ,1 stop ZRH ,09:25–19:15,SWISS,"
+3.916 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.55631.674df3164c8a1d0478e666ce15eed4cf&h=29559c6784f0&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M86,20220506-2230
+88,63cy,2022-07-19,23t. 00min. ,"2 stop STN, KTW ",22:25–22:25+1,Ryanair,"
+956 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.13576.21a5a0d82a485692194c71ecc43be53f&h=857c2d765f2f&sub=E-15fb055c4bb&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M87,20220506-2230
+89,63cy,2022-07-19,25t. 25min. ,"2 stop WAW, OTP ",07:00–09:25+1,"LOT, Blue Air","
+1.081 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.15352.d4b76e89b03917f81c4357532784697f&h=d93136f67a16&sub=E-15e20529e1b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M88,20220506-2230
+90,63cy,2022-07-19,25t. 25min. ,"2 stop WAW, OTP ",07:00–09:25+1,"LOT, Blue Air","
+1.081 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.15352.1b2d505ad191e1aec0294db999ea1306&h=bc7c5f980873&sub=E-15e20529e1b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M89,20220506-2230
+91,63cy,2022-07-19,25t. 25min. ,"2 stop WAW, OTP ",07:00–09:25+1,"LOT, Blue Air","
+1.081 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.15352.364abcec6f8e69e24b9d5fab02095fc0&h=77ad2202747f&sub=E-15e20529e1b&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M90,20220506-2230
+92,63cy,2022-07-19,24t. 30min. ,"3 stop GDN, WAW, ... ",07:55–09:25+1,Flere flyselskaber,"
+1.188 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.16872.a7a16973d09e8cdc7c671a35267cd98d&h=39a730b54469&sub=E-16dacc069bf&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M91,20220506-2230
+93,63cy,2022-07-19,24t. 30min. ,"3 stop GDN, WAW, ... ",07:55–09:25+1,Flere flyselskaber,"
+1.188 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.16872.03e24a410f7382a7a1cd7c53743110dd&h=5c6bdd7d40e6&sub=E-16dacc069bf&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M92,20220506-2230
+94,63cy,2022-07-19,24t. 30min. ,"3 stop GDN, WAW, ... ",07:55–09:25+1,Flere flyselskaber,"
+1.188 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.16879.d486d9251255564caba84930ba92eaf3&h=c0aa041b8958&sub=E-16dacc069bf&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M93,20220506-2230
+95,63cy,2022-07-19,24t. 30min. ,"3 stop GDN, WAW, ... ",07:55–09:25+1,Flere flyselskaber,"
+1.188 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.eNCwACMVOeJpd4CyPwn0EI6M4XD8KcmF.16879.c8f4605dc7398c60f826ceaab982755f&h=022c79825dad&sub=E-16dacc069bf&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M94,20220506-2230
+96,63cy,2022-07-19,25t. 15min. ,1 stop ATH ,12:35–14:50+1,Aegean Airlines,"
+1.641 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.0Cx9insxRz2lB60_7nlgXQ.23308.ba404b83d7578067644f682eee23fce3&h=8d53d627fb18&sub=E-177ddff7a85&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M95,20220506-2230
+97,63cy,2022-07-19,28t. 30min. ,1 stop ATH ,12:35–18:05+1,Aegean Airlines,"
+1.641 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.0Cx9insxRz2lB60_7nlgXQ.23308.4012b569119ef5dec121b0cd22913fc4&h=effc636a7029&sub=E-177ddff7a85&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M96,20220506-2230
+98,63cy,2022-07-19,20t. 25min. ,1 stop LHR ,20:50–18:15+1,British Airways,"
+2.423 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.ZheJHZqHLmzKJvcpKN_waA.34425.dac51cb328b4144e5996b3c694163e60&h=e07b5f5f433d&sub=E-1d2099c38ee&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M97,20220506-2230
+99,63cy,2022-07-19,18t. 10min. ,"2 stop MUC, ATH ",06:10–01:20+1,Aegean Airlines,"
+2.431 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.34532.8481b0119cff5f6c77362ec4514b5817&h=8af97fe41104&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M98,20220506-2230
+100,63cy,2022-07-19,22t. 55min. ,"2 stop FRA, ATH ",14:55–14:50+1,Aegean Airlines,"
+2.474 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.35150.89be436ac2ddfdd95dce3a604326dca5&h=82122311940e&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M99,20220506-2230
+101,63cy,2022-07-19,23t. 50min. ,"2 stop MUC, ATH ",08:45–09:35+1,Aegean Airlines,"
+2.540 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.glFHOAdR1PwEdn9PX-8xhQ.36088.ad0cf2834674f8bfe7f5829514f55875&h=cb07a67b905d&sub=E-1fddf39b2f8&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M100,20220506-2230
+102,63cy,2022-07-19,19t. 00min. ,1 stop ZRH ,14:50–10:50+1,SWISS,"
+2.633 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.tb4DAgHpn3sEdn9PX-8xhQ.37402.1d34938dceb4c15002f2985ae0729da2&h=0ba385a9beb6&sub=E-1189fc906d1&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M101,20220506-2230
+103,63cy,2022-07-19,23t. 30min. ,1 stop LHR ,17:45–18:15+1,British Airways,"
+2.640 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.iQv-fVD2M68vemUm8g9gjQ.37501.ca28bf667589f80be1927c63ec47345f&h=71c8a934d68a&sub=E-104c662495c&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M102,20220506-2230
+104,63cy,2022-07-19,17t. 30min. ,"2 stop MUC, VIE ",06:10–00:40+1,Lufthansa,"
+2.838 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.ysfH673XYZnX5HxgfjXj60KjG3h1fuZ4.40322.c8414a441a9804909ce97de370e3c753&h=a559cd6b1db3&sub=E-1fac8908b93&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M103,20220506-2230
+105,63cy,2022-07-19,17t. 20min. ,"2 stop FRA, VIE ",06:20–00:40+1,Lufthansa,"
+2.883 kr. ",https://kayak.dk/book/flight?code=SgAiLevpCV.ysfH673XYZnX5HxgfjXj60KjG3h1fuZ4.40961.529e92a0ddc95d9ec292cf138bcde5da&h=254e3099657e&sub=E-1fac8908b93&payment=0.00:DKK:VA_D:Visa%20Debit:true&pageOrigin=F..RP.FE.M104,20220506-2230
